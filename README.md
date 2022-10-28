@@ -1,16 +1,15 @@
-### Hi there 👋
+# <p align="center">👋 Hello world !</p>
 
-<!--
-**mimikn/mimikn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm <strong>Michaël</strong>, a creative developer.</p>
 
-Here are some ideas to get you started:
+## <p align="center">📫 Get in touch</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://mimikn.com" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/static/v1?style=flat&label=website&message=mimikn.com&color=ff0018&labelColor=121212" alt="Website">
+    </a>
+    <a href="https://linkedin.com/in/michaelknauer" target="_blank" rel="noopener">
+        <img src="https://img.shields.io/static/v1?style=flat&logo=linkedin&label=&message=LinkedIn&color=0077b5" alt="Website">
+    </a>
+</p>
+
